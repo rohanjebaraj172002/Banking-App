@@ -16,8 +16,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="30dp"
-        android:text="Sparks Bank"
-        android:textAlignment="textStart"
+        android:text="Jebu's Bank"
+
         android:textColor="#FFFFFF"
         android:textSize="36sp"
         android:textStyle="bold" />
@@ -25,9 +25,9 @@
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/bank_logo"
         android:layout_width="match_parent"
-        android:layout_height="237dp"
-        android:layout_marginTop="50dp"
-        android:src="@drawable/bank" />
+        android:layout_height="165dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/bank1" />
 
     <TextView
         android:id="@+id/bank_title"
